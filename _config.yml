@@ -6,6 +6,7 @@ baseurl: "http://varietypack.band"
 url: "http://varietypack.band"
 
 instagtram_username: vpseattle
+email: contact@varietypack.band
 
 # Build settings
 markdown: kramdown
