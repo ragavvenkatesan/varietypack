@@ -1,0 +1,11 @@
+# Site settings
+title: Variety Pack
+email: 
+description: "Welcome to the webpage of the band Variety Pack."
+baseurl: "http://varietypack.band"
+url: "http://varietypack.band"
+
+instagtram_username: vpseattle
+
+# Build settings
+markdown: kramdown
