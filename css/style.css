@@ -341,24 +341,6 @@ p.miniPara {
   font-size: 1.3rem;
   color: #FEFEFE;
 }
-.imgContent .card::before {
-  content: url("../img/instagram-min-white.svg");
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 15px;
-  top: 0;
-  left: 0;
-  margin: 15px auto;
-  width: 100%;
-  max-width: 250px;
-  height: 250px;
-  opacity: 0;
-  background-color: rgba(244, 89, 30, 0.7);
-  z-index: 2;
-  transition: all ease-in-out 150ms;
-}
 .imgContent .card:hover::before {
   opacity: 1;
   transition: all ease-in-out 150ms;
