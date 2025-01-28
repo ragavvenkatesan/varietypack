@@ -1,11 +1,11 @@
 # Site settings
-title: Variety Pack
-email: booking@varietypack.band
-description: "Welcome to the webpage of the band Variety Pack."
-baseurl: "https://varietypack.band"
-url: "https://varietypack.band"
+title: Sludge Factory
+email: booking@sludgefactory.band
+description: "Welcome to the webpage of Sludge Factory."
+baseurl: "https://sludgefactory.band"
+url: "https://sludgefactory.band"
 
-instagram_username: vpseattle
+instagram_username: sludgefactory
 
 # Build settings
 markdown: kramdown
