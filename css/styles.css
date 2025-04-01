@@ -1,6 +1,6 @@
 /* ----------------------------
 
-	Project:	Variety Pack
+	Project:	Sludge Factory
 	Version:	1.1.0
 	Author:     Nika Vasilyeva
 	Website:    http://themeforest.net/user/the-nika/
