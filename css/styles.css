@@ -922,6 +922,16 @@ input.btn .icon--dots {
 	09. Logo
 
 ---------------------------- */
+
+.logo {
+  max-width: 80%;
+}
+
+.logo--content {
+  width: 60%;
+  margin-left: 15%;
+}
+
 .logo--intro {
   margin-bottom: 20px;
 }
