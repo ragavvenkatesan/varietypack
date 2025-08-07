@@ -936,6 +936,10 @@ input.btn .icon--dots {
   margin-bottom: 20px;
 }
 
+.logo--panel {
+  max-width: 50%;
+}
+
 @media (min-width: 960px) {
   .logo--intro {
     margin-bottom: 40px;
